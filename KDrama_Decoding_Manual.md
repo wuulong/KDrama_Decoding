@@ -1,4 +1,4 @@
-# 《韓劇羅曼史解碼手冊：從感性體驗到文明認知的轉化指南》
+# 《韓劇羅曼史解讀手冊：從感性體驗到文明認知的轉化指南》
 **（K-Drama Romance Decoding: A Post-Viewing Guide to Civilizational Insight）**
 
 ## 0. 導言：為什麼我們需要這本書？
@@ -52,19 +52,26 @@
 ## # 第 9 章：研究者的靈魂共振 —— 從角色看見自己
 - [9.1 從洪班長看開放社群精神](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/9.1_Open_Source_Spirit.md)
 
-## 📺 劇目深度解碼 (Case Studies)
-這部分是針對具體劇目的深度解析，作為通用解碼邏輯的實踐範例。
+## 📺 劇目深度解讀 (Case Studies)
+這部分是針對具體劇目的深度解析，作為通用解讀邏輯的實踐範例。
 
 ### 《海岸村恰恰恰》 (Hometown Cha-Cha-Cha)
-- [文明解碼報告](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_Decoded.md)
+- [文明解讀報告](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_Decoded.md)
 - [人物誌：洪班長由來與時間線](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_Details.md)
 - [配角解析：表美善 —— 直球文明的代表](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_PyoMiSeon.md)
 - [靈魂錨點：坎離奶奶 —— 母性守護與土地智慧](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_GimGamRi.md)
 - [溫柔觀察者：池成炫 —— 時機與專業的辯證](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_JiSeongHyeon.md)
-- [📺 人物地圖：文明功能與角色解碼全覽](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_Character_Map.md)
+- [📺 人物地圖：文明功能與角色解讀全覽](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/HometownChaChaCha_Character_Map.md)
 
 ### 《淚的女王》 (Queen of Tears)
-- [文明解碼報告](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/QueenOfTears_Decoded.md)
+- [文明解讀報告](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/QueenOfTears_Decoded.md)
 
 ---
-**版本：v0.1 | 完稿日期：2026-05-08**
+
+## 🛠️ 開發者資源 (Developer Resources)
+- [如何產製這本書：AI 協作知識工程 SOP](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/How_to_Build_this_Book.md)
+- [AI 技能附件 (Skill)](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/skill/SKILL.md)
+- [用語修正腳本 (Script)](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/scripts/taiwanize_terms.py)
+
+---
+**版本：v1.0 | 完稿日期：2026-05-08**
