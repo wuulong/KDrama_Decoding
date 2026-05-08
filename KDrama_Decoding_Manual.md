@@ -7,6 +7,8 @@
 ---
 
 ## 📖 章節分檔連結
+- **[全書完整版 (Full Book PDF/Print Ready)](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/KDrama_Decoding_Full_Book.md)**
+
 - [1.1 敬語與平語的心理邊界](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/1.1_Language_Hierarchy.md)
 - [1.2 職場與家庭的語言壓制](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/1.2_Workplace_Family_Suppression.md)
 - [1.3 語言作為「接納」的訊號](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/1.3_Language_as_Acceptance.md)

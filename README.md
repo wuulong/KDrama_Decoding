@@ -13,8 +13,9 @@
 - **文明對位**：將韓劇的角色原型（如洪班長）與現實中的生命實踐（如開放社群精神）進行深度連結。
 
 ## 🗂️ 快速導航
-本書採用模組化設計，您可以從 **[主索引手冊](./KDrama_Decoding_Manual.md)** 進入，或直接閱讀以下重點章節：
+本書採用模組化設計，您可以從 **[主索引手冊](./KDrama_Decoding_Manual.md)** 進入，或直接閱讀：
 
+- **[📚 全書完整版 (Full Book PDF/Print Ready)](./KDrama_Decoding_Full_Book.md)**
 - **[第 1 章：語言階級的心理邊界](./1.1_Language_Hierarchy.md)**
 - **[第 3 章：集體主義的「我們」邏輯](./3.1_Uri_Culture.md)**
 - **[第 7 章：傷痕者與倖存者原型](./7.1_Survivors_Guilt.md)**
