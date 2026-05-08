@@ -15,7 +15,7 @@
 ## 🗂️ 快速導航
 本書採用模組化設計，您可以從 **[主索引手冊](./KDrama_Decoding_Manual.md)** 進入，或直接閱讀：
 
-- **[📚 全書完整版 (Full Book PDF/Print Ready)](./KDrama_Decoding_Full_Book.md)**
+- **[📚 全書完整版 (Full Book Markdown)](./KDrama_Decoding_Full_Book.md)** ([PDF 下載點](https://github.com/wuulong/KDrama_Decoding/blob/main/KDrama_Decoding_Full_Book.pdf))
 - **[第 1 章：語言階級的心理邊界](./1.1_Language_Hierarchy.md)**
 - **[第 3 章：集體主義的「我們」邏輯](./3.1_Uri_Culture.md)**
 - **[第 7 章：傷痕者與倖存者原型](./7.1_Survivors_Guilt.md)**
