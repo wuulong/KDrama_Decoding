@@ -68,6 +68,8 @@
 ### 《淚的女王》 (Queen of Tears)
 - [文明解讀報告](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Decoded_Analyses/QueenOfTears_Decoded.md)
 
+- [後記：從解碼中看見的文明盲點](file:///Users/wuulong/github/bmad-pa/events/AIBooks/KDrama_Decoding/Post_Reflections.md)
+
 ---
 
 ## 🛠️ 開發者資源 (Developer Resources)
