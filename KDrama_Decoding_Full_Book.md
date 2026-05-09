@@ -547,11 +547,46 @@
 - **鞋子的路徑**：惠珍遺失的高跟鞋代表都市身分的斷裂。洪班長給她的膠拖鞋（雖然醜但實用），象徵著「與土地連結」的新生命起點。
 - **食物的盟約**：奶奶們的「共食」是惠珍獲得村落准入證的關鍵儀式。
 
-## 3. 心理原型對合 (Psychological Archetypes)
+## 3. 飲食儀式的文明解密
+劇中大量的共食、酒精與特殊食物場景，其實是一套嚴密的文明運作系統。
+
+```mermaid
+graph TD
+    %% 核心概念
+    Root["📺 飲食儀式的文明解讀"] --- Social["👥 社會維度 (Social)"]
+    Root --- Civil["🏛️ 文明維度 (Civilizational)"]
+    Root --- Psych["🧠 心理維度 (Psychological)"]
+    Root --- Symbol["✨ 符號維度 (Symbolic)"]
+
+    %% 社會維度子節點
+    Social --> Sikgu["<b>『食口 (Sik-gu)』邏輯</b><br/>共同進食 = 建立親緣連結"]
+    Social --> Uri["<b>『我們 (Uri)』准入</b><br/>共食作為社群成員的認證儀式"]
+
+    %% 文明維度子節點
+    Civil --> Leveling["<b>階級平整化 (Status Leveling)</b><br/>卸除都市精英標籤<br/>(手撕泡菜、生魚片)"]
+    Civil --> Adaptation["<b>文明適應與融合</b><br/>都市精緻 vs. 地方原始<br/>(手沖咖啡 vs. 烤地瓜)"]
+
+    %% 心理維度子節點
+    Psych --> Motherhood["<b>母性供養系統</b><br/>坎離奶奶的餐桌<br/>(靈魂的虛擬臍帶)"]
+    Psych --> Transparency["<b>真實性轉譯 (Truth Serum)</b><br/>酒精儀式：卸除『面子』<br/>露出脆弱的靈魂"]
+
+    %% 符號維度子節點
+    Symbol --> Rebirth["<b>海帶湯：重生與歸屬</b><br/>彌補親情缺失<br/>生命價值的再確認"]
+    Symbol --> Border["<b>邊界空間：酒桌</b><br/>打破敬語限制<br/>情感流動的非正式場所"]
+
+    %% 樣式設定
+    style Root fill:#f9f,stroke:#333,stroke-width:4px
+    style Social fill:#bbf,stroke:#333,stroke-width:2px
+    style Civil fill:#bfb,stroke:#333,stroke-width:2px
+    style Psych fill:#fbb,stroke:#333,stroke-width:2px
+    style Symbol fill:#fff4dd,stroke:#333,stroke-width:2px
+```
+
+## 4. 心理原型對合 (Psychological Archetypes)
 - **倖存者愧疚 (Survivor's Guilt)**：洪班長將親人的死亡歸咎於自己的「存在」，導致他產生「防禦型依附」。他的熱情（對村民）與刻薄（對親密關係）互為表裡，皆是為了防止「再次失去」。
 - **療癒轉折**：惠珍的「穩定依附」力量，透過持續的理解與不退縮，最終拆除了洪班長的自我監控系統。
 
-## 4. 跨界洞察 (Cross-Domain Insights)
+## 5. 跨界洞察 (Cross-Domain Insights)
 - **流域聚落與共同體**：公辰村的結構與台灣早期漁村聚落高度相似。那種「無隱私的守望相助」是資源匱乏環境下的生存最優解。這種社會韌性是理解台灣地方學的重要參考。
 # 附錄 A：為何叫做「洪班長」？及其生命時間線
 
